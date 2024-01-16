@@ -54,12 +54,13 @@ section > div{
 }
 p{
 	padding:10px 10px 10px 10px;
+	padding-top: 50px;
 	width:100%;
 }
 p.p1,p.p2,p.p3{
 	text-align: center;
 	color: black;
-	font-size: 1.5em;
+	font-size: 2em;
 	font-weight: bold;
 }
 .text-center{
